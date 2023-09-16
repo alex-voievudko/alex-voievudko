@@ -7,9 +7,9 @@
 <details>
 <summary>Languages & Frameworks</summary>
 
-- JavaScript
-- TypeScript
 - React
+- TypeScript
+- JavaScript
 - HTML
 - CSS
 - Sass
