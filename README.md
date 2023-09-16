@@ -1,10 +1,41 @@
-<h2> Hi, I'm Alex Voievudko! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<div style="background-color: #011627; color: white; padding: 20px;">
 
-<h3>Frontend | Fullstack JavaScript Developer</h3>
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 400px;
+					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 10px;
+					color: white;
+					text-align: center;
+				}
+      </style>
+      <div class="container">
+				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
+				<p>Click to see the source</p>
+			</div>
+		</div>
+  </foreignObject>
+</svg>
 
-<p>I have been working as a manager in game industry for the last 8 years but now I decided to change the direction of
-my carrier.</p>
-<p>Development always has been my passion and hobby for more than 5 years since I wrote the first script
-for my team to automate their work. I have spent a lot of time learning JavaScript and React particularly and now I
-am looking for new opportunities to turn my hobby into the real job</p>
 
